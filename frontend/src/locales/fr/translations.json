@@ -1,0 +1,30 @@
+{
+	"header": {
+		"dashboard": "Tableau de bord",
+		"wallets": "Portefeuilles",
+		"investments": "Investissement",
+		"vote": "Bureau de vote",
+		"proposal": "Dépôt de proposition",
+		"admin": "Administration"
+	},
+	"home": {
+		"welcome": "Bienvenue",
+		"connectLine1": "Connectez votre portefeuille ",
+		"connectLink": "Ethereum",
+		"connectLine2": " pour commencer",
+		"notConnected": "Non Connecté",
+		"votingBooth": "Votation",
+		"simpleStorage": "Stockage simple",
+		"registerVoter": "Enregistrer un électeur",
+		"workflowStatus": "Statut du workflow :"
+	},
+	"workflowStatusLabels": {
+		"0": "Enregistrement des électeurs",
+		"1": "Enregistrement des propositions",
+		"2": "Fin de l'enregistrement des propositions",
+		"3": "Session de vote",
+		"4": "Fin de la session de vote",
+		"5": "Comptage des votes"
+	}
+}
+

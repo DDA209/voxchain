@@ -1,0 +1,30 @@
+{
+	"header": {
+		"dashboard": "Dashboard",
+		"wallets": "Wallets",
+		"investments": "Investments",
+		"vote": "Voting Booth",
+		"proposal": "Proposals",
+		"admin": "Administration"
+	},
+	"home": {
+		"welcome": "Welcome",
+		"connectLine1": "Connect your ",
+		"connectLink": "Ethereum",
+		"connectLine2": " wallet to get started",
+		"notConnected": "Not Connected",
+		"votingBooth": "Voting Booth",
+		"simpleStorage": "Simple Storage",
+		"registerVoter": "Register a voter",
+		"workflowStatus": "Workflow status:"
+	},
+	"workflowStatusLabels": {
+		"0": "Registering voters",
+		"1": "Proposals registration started",
+		"2": "Proposals registration ended",
+		"3": "Voting session started",
+		"4": "Voting session ended",
+		"5": "Votes tallied"
+	}
+}
+
