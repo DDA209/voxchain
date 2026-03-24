@@ -10,7 +10,7 @@ import Link from 'next/link';
 const NotConnected = () => {
 	const { t } = useTranslation();
 	const [randomNumber] = useState<number>(
-		() => Math.floor(Math.random() * 3) + 1, // Génère 1, 2 ou 3 (ajustez selon le nombre d'images que vous avez)
+		() => Math.floor(Math.random() * 1) + 1, // Génère 1, 2 ou 3 (ajustez selon le nombre d'images que vous avez)
 	);
 
 	return (
